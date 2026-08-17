@@ -1,0 +1,1 @@
+*Hii so heres my second project . i will go from simple pendulum (variation with large angles and small angles ). then i will code for Double pendulum*
